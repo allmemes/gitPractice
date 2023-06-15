@@ -10,3 +10,10 @@ workerB = 0
 for i in range(3):
     workerB -= 1
 print("This is worker B's code: ", workerB)
+
+
+# Notes for git: 
+# 1, git rm/mv: directly remove and rename files in stage/index, skipping add step.
+# 2, git status -s: brief version of status, showing local and staged status for files.
+# 3, unstage/restore files from index/stage (undo add command): git restore --staged fileName.
+# 4, reset LOCAL changes to previous stage: git restore fileName.
