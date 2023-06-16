@@ -1,5 +1,5 @@
 # worker A's code
-workerA = 0
+workerA = 100
 for i in range(3):
     workerA += 1
 print("This is worker A's code: ", workerA)
