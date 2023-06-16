@@ -29,4 +29,4 @@ print("This is worker B's code: ", workerB)
 #       - git checkout can be used to change between branches with many other functions. 
 #           git switch can also be used to change brances.
 #       - git branch -m newBranchName can be used to change the name for current branch. Or you do git branch -m oldName newName.
-#           After merging, there will be a editor that asks for some comments on the merge. press i to write/insert, 
+#           After merging, there will be a editor that asks for some comments on the merge. press i to write/insert. press esc and type ":wq" to exit.
