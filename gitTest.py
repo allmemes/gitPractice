@@ -26,6 +26,7 @@ print("This is worker B's code: ", workerB)
 #       - can only create branch at local repo. Only by publishing it can make remote branches.
 #       - create new branch with git branch <branchName>: create banch at current revision/status.
 #       - create new branch with git branch <branchName> revisionID: create banch at certain revision/status.
-#       - git checkout can be used to change between branches with many other functions. git switch can also be used to change brances.
+#       - git checkout can be used to change between branches with many other functions. 
+#           git switch can also be used to change brances.
 #       - git branch -m newBranchName can be used to change the name for current branch. Or you do git branch -m oldName newName.
-#       - 
+#           After merging, there will be a editor that asks for some comments on the merge. press i to write/insert, 
