@@ -11,7 +11,7 @@ for i in range(3):
     workerB -= 1
 print("This is worker B's code: ", workerB)
 
-# edit from the second branch
+# edit from the second branch, again.
 
 # Notes for git: 
 # 1, git rm/mv: directly remove and rename files in stage/index, skipping add step.
