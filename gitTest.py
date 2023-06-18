@@ -19,3 +19,5 @@ print("This is worker B's code: ", workerB)
 # 4, reset LOCAL changes to previous stage: git restore fileName.
 # 5, retrieve commited and deleted files by undoing the commit: git restore --source=HEAD~1 fileName
 # 6, 
+
+# note from the thrid branch.
