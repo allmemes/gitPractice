@@ -33,3 +33,5 @@ print("This is worker B's code: ", workerB)
 #           After merging, there will be a editor that asks for some comments on the merge. press i to write/insert. press esc and type ":wq" to exit.
 
 # note from the thrid branch.
+
+# A function from the second branch. 
