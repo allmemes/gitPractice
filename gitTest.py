@@ -19,4 +19,5 @@ print("This is worker B's code: ", workerB)
 # 3, unstage/restore files from index/stage (undo add command): git restore --staged fileName.
 # 4, reset LOCAL changes to previous stage: git restore fileName.
 # 5, retrieve commited and deleted files by undoing the commit: git restore --source=HEAD~1 fileName
-# 6, 
+
+# A function from the second branch. 
